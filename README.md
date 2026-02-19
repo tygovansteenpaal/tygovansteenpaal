@@ -1,16 +1,19 @@
-## Hi there 👋
+Hi, I’m Tygo, a software developer from the Netherlands.
+I love building and designing anything that pops into my head. When I get an idea, I usually dive right in and start building—and I always ship it.
 
-<!--
-**tygovansteenpaal/tygovansteenpaal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Tech stack: TypeScript, JavaScript, PHP, C#, Python, HTML, CSS, Tailwind
+Favorite tools: Figma, Notes, Word, Visual Studio Code
 
-Here are some ideas to get you started:
+I’ve pinned a bunch of projects, but my favorite is my Portfolio. I’ve also worked on many projects from school that helped me sharpen my skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+If you want to see how I work, check out my websites and repos [here]!
+
+Fun facts:
+
+I absolutely love coding.
+
+I’m full of inspiration and always turn my ideas into projects.
+
+My favorite game is Call of Duty.
+
+Hobbies: Playing games, hitting the gym, and building things

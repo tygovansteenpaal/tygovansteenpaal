@@ -1,30 +1,17 @@
-<a href="https://www.linkedin.com/in/tygo-van-steen-37715a3a9"><img src="assets/header.svg" width="100%" alt="Tygo van Steenpaal - software developer and designer from the Netherlands"/></a>
+<img src="assets/header.svg" width="100%" alt="Tygo van Steenpaal - software developer and designer. A mosaic of real screens from Blokbrawl, Huddle and Stash."/>
 
-<img src="assets/label-01.svg" width="100%" alt="01 About"/>
-<img src="assets/about.svg" width="100%" alt="Software developer from the Netherlands. I design in Figma, then build it for real. An idea hits, I dive in and ship. Lots of my work started at school. Off the clock: gym, gaming (Call of Duty) and building things."/>
-
-<img src="assets/label-02.svg" width="100%" alt="02 Stack"/>
-<img src="assets/stack.svg" width="100%" alt="TypeScript, JavaScript, PHP, C#, Python, HTML, CSS, Tailwind. Tools: Figma, VS Code, Notes, Word."/>
-
-<img src="assets/label-03.svg" width="100%" alt="03 Work"/>
+<a href="https://tygovansteenpaal.github.io/Site-s/blokbrawl/"><img src="assets/label-01.svg" width="100%" alt="01 Blokbrawl - cartoon 1v1 build fight - play in browser"/></a>
+<a href="https://tygovansteenpaal.github.io/Site-s/blokbrawl/"><img src="assets/blokbrawl.gif" width="100%" alt="Blokbrawl gameplay: building walls and ramps, then fighting the bot"/></a>
 
 <p>
-  <a href="https://tygovansteenpaal.github.io/Site-s/blokbrawl/"><img src="assets/project-blokbrawl.svg" width="49%" alt="Blokbrawl - cartoon 1v1 build-and-shoot game in the browser"/></a>
-  <a href="https://tygovansteenpaal.github.io/Site-s/huddle/"><img src="assets/project-huddle.svg" width="49%" alt="Huddle - team chat with channels, threads and calls"/></a>
-</p>
-<p>
-  <a href="https://tygovansteenpaal.github.io/Site-s/stash/"><img src="assets/project-stash.svg" width="49%" alt="Stash - my own marketplace for game accounts, items and currency"/></a>
-  <a href="https://github.com/tygovansteenpaal/secure_vpn"><img src="assets/project-pyvpn.svg" width="49%" alt="PyVPN - VPN with AES-256-GCM and X25519"/></a>
-</p>
-<p>
-  <a href="https://github.com/tygovansteenpaal/stravasa"><img src="assets/project-stravasa.svg" width="49%" alt="Stravasa - PHP user platform with auth, dashboard and REST API"/></a>
+<a href="https://tygovansteenpaal.github.io/Site-s/huddle/"><img src="assets/label-02.svg" width="49%" alt="02 Huddle - team chat"/></a>
+<a href="https://tygovansteenpaal.github.io/Site-s/stash/"><img src="assets/label-03.svg" width="49%" alt="03 Stash - my own game marketplace"/></a>
+<a href="https://tygovansteenpaal.github.io/Site-s/huddle/"><img src="assets/huddle.gif" width="49%" alt="Huddle: opening a thread and posting a message"/></a>
+<a href="https://tygovansteenpaal.github.io/Site-s/stash/"><img src="assets/stash.gif" width="49%" alt="Stash: browsing the shop and adding an account to the cart"/></a>
 </p>
 
-<img src="assets/label-04.svg" width="100%" alt="04 Numbers"/>
+<img src="assets/index.svg" width="100%" alt="04 More work: PyVPN (Python VPN with AES-256-GCM), Stravasa (PHP user platform), Site-s"/>
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=tygovansteenpaal&show_icons=true&include_all_commits=true&bg_color=0e0e0e&title_color=f2f2f2&text_color=a9a9a9&icon_color=ed3833&border_color=2a2a2a&hide_border=false&border_radius=0" height="170" alt="GitHub stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tygovansteenpaal&layout=compact&langs_count=8&bg_color=0e0e0e&title_color=f2f2f2&text_color=a9a9a9&icon_color=ed3833&border_color=2a2a2a&hide_border=false&border_radius=0" height="170" alt="Most used languages"/>
-</p>
+<img src="assets/footer.svg" width="100%" alt="Stack: TypeScript, JavaScript, PHP, C#, Python, HTML, CSS, Tailwind. Tools: Figma, VS Code."/>
 
-<img src="assets/footer.svg" width="100%" alt="Always shipping"/>
+<sub><a href="https://github.com/tygovansteenpaal/secure_vpn">PyVPN</a> &nbsp;/&nbsp; <a href="https://github.com/tygovansteenpaal/stravasa">Stravasa</a> &nbsp;/&nbsp; <a href="https://github.com/tygovansteenpaal/Site-s">Site-s</a> &nbsp;/&nbsp; <a href="https://www.linkedin.com/in/tygo-van-steen-37715a3a9">LinkedIn</a></sub>

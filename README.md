@@ -1,59 +1,30 @@
-<h1 align="center">Hi, I'm Tygo 👋</h1>
+<a href="https://www.linkedin.com/in/tygo-van-steen-37715a3a9"><img src="assets/header.svg" width="100%" alt="Tygo van Steenpaal - software developer and designer from the Netherlands"/></a>
 
-<p align="center">
-  <b>Software developer from the Netherlands</b><br/>
-  I build and design anything that pops into my head — and I always ship it.
-</p>
+<img src="assets/label-01.svg" width="100%" alt="01 About"/>
+<img src="assets/about.svg" width="100%" alt="Software developer from the Netherlands. I design in Figma, then build it for real. An idea hits, I dive in and ship. Lots of my work started at school. Off the clock: gym, gaming (Call of Duty) and building things."/>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tygovansteenpaal&style=flat-square&color=blue" alt="Profile views"/>
-  <a href="https://www.linkedin.com/in/tygo-van-steen-37715a3a9"><img src="https://img.shields.io/badge/LinkedIn-connect-0A66C2?style=flat-square&logo=linkedin" alt="LinkedIn"/></a>
-  <a href="https://github.com/tygovansteenpaal?tab=repositories"><img src="https://img.shields.io/badge/Repos-explore-181717?style=flat-square&logo=github" alt="Repositories"/></a>
-</p>
+<img src="assets/label-02.svg" width="100%" alt="02 Stack"/>
+<img src="assets/stack.svg" width="100%" alt="TypeScript, JavaScript, PHP, C#, Python, HTML, CSS, Tailwind. Tools: Figma, VS Code, Notes, Word."/>
 
----
-
-### 🚀 About me
-
-- 💡 When I get an idea, I dive right in and start building
-- 🛠️ I love designing in Figma and turning those designs into real products
-- 🎓 Many of my projects come from school — each one sharpened my skills
-- ⭐ My favourite project is my **Portfolio**
-
-### 🧰 Tech stack
+<img src="assets/label-03.svg" width="100%" alt="03 Work"/>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=ts,js,php,cs,py,html,css,tailwind&perline=8" alt="TypeScript, JavaScript, PHP, C#, Python, HTML, CSS, Tailwind"/>
+  <a href="https://tygovansteenpaal.github.io/Site-s/blokbrawl/"><img src="assets/project-blokbrawl.svg" width="49%" alt="Blokbrawl - cartoon 1v1 build-and-shoot game in the browser"/></a>
+  <a href="https://tygovansteenpaal.github.io/Site-s/huddle/"><img src="assets/project-huddle.svg" width="49%" alt="Huddle - team chat with channels, threads and calls"/></a>
+</p>
+<p>
+  <a href="https://tygovansteenpaal.github.io/Site-s/stash/"><img src="assets/project-stash.svg" width="49%" alt="Stash - my own marketplace for game accounts, items and currency"/></a>
+  <a href="https://github.com/tygovansteenpaal/secure_vpn"><img src="assets/project-pyvpn.svg" width="49%" alt="PyVPN - VPN with AES-256-GCM and X25519"/></a>
+</p>
+<p>
+  <a href="https://github.com/tygovansteenpaal/stravasa"><img src="assets/project-stravasa.svg" width="49%" alt="Stravasa - PHP user platform with auth, dashboard and REST API"/></a>
 </p>
 
-**Tools:** Figma · Visual Studio Code · Notes · Word
+<img src="assets/label-04.svg" width="100%" alt="04 Numbers"/>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=figma,vscode" alt="Figma, VS Code"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=tygovansteenpaal&show_icons=true&include_all_commits=true&bg_color=0e0e0e&title_color=f2f2f2&text_color=a9a9a9&icon_color=ed3833&border_color=2a2a2a&hide_border=false&border_radius=0" height="170" alt="GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tygovansteenpaal&layout=compact&langs_count=8&bg_color=0e0e0e&title_color=f2f2f2&text_color=a9a9a9&icon_color=ed3833&border_color=2a2a2a&hide_border=false&border_radius=0" height="170" alt="Most used languages"/>
 </p>
 
-### 📌 Featured projects
-
-| Project | What it is | Stack |
-|---|---|---|
-| [**PyVPN**](https://github.com/tygovansteenpaal/secure_vpn) | A working VPN with TUN interfaces, AES-256-GCM encryption, X25519 key exchange and replay protection | Python |
-| [**Stravasa**](https://github.com/tygovansteenpaal/stravasa) | User management system with authentication, profiles, a dashboard and a REST API (MVC) | PHP · MySQL · Tailwind |
-
-👉 See how I work: check out all my [websites and repos](https://github.com/tygovansteenpaal?tab=repositories).
-
-### 📊 GitHub stats
-
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=tygovansteenpaal&show_icons=true&hide_border=true&theme=transparent" alt="GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tygovansteenpaal&layout=compact&hide_border=true&theme=transparent" alt="Top languages"/>
-</p>
-
-### 🎮 Outside of code
-
-- 🏋️ Hitting the gym
-- 🎮 Gaming — favourite game: **Call of Duty**
-- 🧱 Building things, always
-
----
-
-<p align="center"><i>I absolutely love coding — full of inspiration and always turning ideas into projects.</i></p>
+<img src="assets/footer.svg" width="100%" alt="Always shipping"/>

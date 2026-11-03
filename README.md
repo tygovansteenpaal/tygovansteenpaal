@@ -10,6 +10,7 @@ Full-stack developer from the Netherlands. I turn ideas into projects you can op
 <img src="https://img.shields.io/badge/JavaScript-2a2a30?style=for-the-badge&logo=javascript&logoColor=white&labelColor=ff6a00&label=" alt="JavaScript">
 <img src="https://img.shields.io/badge/PHP-2a2a30?style=for-the-badge&logo=php&logoColor=white&labelColor=ff6a00&label=" alt="PHP">
 <img src="https://img.shields.io/badge/C%23-2a2a30?style=for-the-badge&logo=dotnet&logoColor=white&labelColor=ff6a00&label=" alt="C#">
+<br>
 <img src="https://img.shields.io/badge/Python-2a2a30?style=for-the-badge&logo=python&logoColor=white&labelColor=ff6a00&label=" alt="Python">
 <img src="https://img.shields.io/badge/Three.js-2a2a30?style=for-the-badge&logo=threedotjs&logoColor=white&labelColor=ff6a00&label=" alt="Three.js">
 <img src="https://img.shields.io/badge/Tailwind-2a2a30?style=for-the-badge&logo=tailwindcss&logoColor=white&labelColor=ff6a00&label=" alt="Tailwind CSS">

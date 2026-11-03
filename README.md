@@ -1,17 +1,29 @@
-<img src="assets/header.svg" width="100%" alt="Tygo van Steenpaal - software developer and designer. A mosaic of real screens from Blokbrawl, Huddle and Stash."/>
+## Tygo van Steenpaal
 
-<a href="https://tygovansteenpaal.github.io/Site-s/blokbrawl/"><img src="assets/label-01.svg" width="100%" alt="01 Blokbrawl - cartoon 1v1 build fight - play in browser"/></a>
-<a href="https://tygovansteenpaal.github.io/Site-s/blokbrawl/"><img src="assets/blokbrawl.gif" width="100%" alt="Blokbrawl gameplay: building walls and ramps, then fighting the bot"/></a>
+Full-stack developer from the Netherlands. I turn ideas into projects you can open and use: games, web apps and tools.
 
-<p>
-<a href="https://tygovansteenpaal.github.io/Site-s/huddle/"><img src="assets/label-02.svg" width="49%" alt="02 Huddle - team chat"/></a>
-<a href="https://tygovansteenpaal.github.io/Site-s/stash/"><img src="assets/label-03.svg" width="49%" alt="03 Stash - my own game marketplace"/></a>
-<a href="https://tygovansteenpaal.github.io/Site-s/huddle/"><img src="assets/huddle.gif" width="49%" alt="Huddle: opening a thread and posting a message"/></a>
-<a href="https://tygovansteenpaal.github.io/Site-s/stash/"><img src="assets/stash.gif" width="49%" alt="Stash: browsing the shop and adding an account to the cart"/></a>
-</p>
+&nbsp;
 
-<img src="assets/index.svg" width="100%" alt="04 More work: PyVPN (Python VPN with AES-256-GCM), Stravasa (PHP user platform), Site-s"/>
+**Projects**
 
-<img src="assets/footer.svg" width="100%" alt="Stack: TypeScript, JavaScript, PHP, C#, Python, HTML, CSS, Tailwind. Tools: Figma, VS Code."/>
+| | | |
+|:--|:--|:--|
+| [Zonefall](https://tygovansteenpaal.github.io/Site-s/zonefall/) | Battle royale in the browser for up to 10 players, peer to peer, bots fill the rest | JavaScript, Three.js |
+| [Huddle](https://tygovansteenpaal.github.io/Site-s/huddle/) | Team chat with channels, threads, reactions and a call screen | JavaScript, HTML, CSS |
+| [Stash](https://tygovansteenpaal.github.io/Site-s/stash/) | My own game marketplace with search, filters and a cart | JavaScript, HTML, CSS |
+| [PyVPN](https://github.com/tygovansteenpaal/secure_vpn) | VPN built on TUN interfaces with modern cryptography | Python |
+| [Stravasa](https://github.com/tygovansteenpaal/stravasa) | User platform with sign-in and profiles | PHP, Tailwind CSS |
 
-<sub><a href="https://github.com/tygovansteenpaal/secure_vpn">PyVPN</a> &nbsp;/&nbsp; <a href="https://github.com/tygovansteenpaal/stravasa">Stravasa</a> &nbsp;/&nbsp; <a href="https://github.com/tygovansteenpaal/Site-s">Site-s</a> &nbsp;/&nbsp; <a href="https://www.linkedin.com/in/tygo-van-steen-37715a3a9">LinkedIn</a></sub>
+&nbsp;
+
+**Stack**
+
+TypeScript, JavaScript, PHP, C#, Python, HTML, CSS, Tailwind CSS. Designed in Figma, written in VS Code.
+
+**Off the clock**
+
+Gym and gaming.
+
+&nbsp;
+
+[LinkedIn](https://www.linkedin.com/in/tygo-van-steen-37715a3a9) &nbsp;·&nbsp; [All projects](https://github.com/tygovansteenpaal/Site-s)

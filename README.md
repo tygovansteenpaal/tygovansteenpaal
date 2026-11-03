@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="assets/zetfire.png" width="96" alt="Zetfire logo">
-
-<img src="assets/header.svg" width="100%" alt="Tygo van Steenpaal, full-stack developer from the Netherlands">
+<img src="assets/header.svg" width="100%" alt="Zetfire logo with Tygo van Steenpaal, full-stack developer from the Netherlands">
 
 <img src="assets/build.svg" width="100%" alt="I build games, web apps and tools">
 

@@ -6,14 +6,14 @@
 
 Full-stack developer from the Netherlands. I turn ideas into projects you can open and use: games, web apps and tools.
 
-<img src="https://img.shields.io/badge/TypeScript-141416?style=for-the-badge&logo=typescript&logoColor=ff6a00" alt="TypeScript">
-<img src="https://img.shields.io/badge/JavaScript-141416?style=for-the-badge&logo=javascript&logoColor=ff6a00" alt="JavaScript">
-<img src="https://img.shields.io/badge/PHP-141416?style=for-the-badge&logo=php&logoColor=ff6a00" alt="PHP">
-<img src="https://img.shields.io/badge/C%23-141416?style=for-the-badge&logo=dotnet&logoColor=ff6a00" alt="C#">
-<img src="https://img.shields.io/badge/Python-141416?style=for-the-badge&logo=python&logoColor=ff6a00" alt="Python">
-<img src="https://img.shields.io/badge/Three.js-141416?style=for-the-badge&logo=threedotjs&logoColor=ff6a00" alt="Three.js">
-<img src="https://img.shields.io/badge/Tailwind-141416?style=for-the-badge&logo=tailwindcss&logoColor=ff6a00" alt="Tailwind CSS">
-<img src="https://img.shields.io/badge/Figma-141416?style=for-the-badge&logo=figma&logoColor=ff6a00" alt="Figma">
+<img src="https://img.shields.io/badge/TypeScript-2a2a30?style=for-the-badge&logo=typescript&logoColor=white&labelColor=ff6a00&label=" alt="TypeScript">
+<img src="https://img.shields.io/badge/JavaScript-2a2a30?style=for-the-badge&logo=javascript&logoColor=white&labelColor=ff6a00&label=" alt="JavaScript">
+<img src="https://img.shields.io/badge/PHP-2a2a30?style=for-the-badge&logo=php&logoColor=white&labelColor=ff6a00&label=" alt="PHP">
+<img src="https://img.shields.io/badge/C%23-2a2a30?style=for-the-badge&logo=dotnet&logoColor=white&labelColor=ff6a00&label=" alt="C#">
+<img src="https://img.shields.io/badge/Python-2a2a30?style=for-the-badge&logo=python&logoColor=white&labelColor=ff6a00&label=" alt="Python">
+<img src="https://img.shields.io/badge/Three.js-2a2a30?style=for-the-badge&logo=threedotjs&logoColor=white&labelColor=ff6a00&label=" alt="Three.js">
+<img src="https://img.shields.io/badge/Tailwind-2a2a30?style=for-the-badge&logo=tailwindcss&logoColor=white&labelColor=ff6a00&label=" alt="Tailwind CSS">
+<img src="https://img.shields.io/badge/Figma-2a2a30?style=for-the-badge&logo=figma&logoColor=white&labelColor=ff6a00&label=" alt="Figma">
 
 </div>
 
@@ -36,6 +36,6 @@ Full-stack developer from the Netherlands. I turn ideas into projects you can op
 **Off the clock:** gym and gaming
 
 <a href="https://www.linkedin.com/in/tygo-van-steen-37715a3a9"><img src="https://img.shields.io/badge/LinkedIn-d42a00?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://github.com/tygovansteenpaal/Site-s"><img src="https://img.shields.io/badge/All_projects-141416?style=for-the-badge&logo=github&logoColor=ff6a00" alt="All projects"></a>
+<a href="https://github.com/tygovansteenpaal/Site-s"><img src="https://img.shields.io/badge/All_projects-2a2a30?style=for-the-badge&logo=github&logoColor=white&labelColor=ff6a00&label=" alt="All projects"></a>
 
 </div>

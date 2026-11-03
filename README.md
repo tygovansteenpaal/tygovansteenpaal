@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="assets/zetfire.png" width="110" alt="Zetfire logo">
+<img src="assets/zetfire.png" width="96" alt="Zetfire logo">
 
-# Tygo van Steenpaal
+<img src="assets/header.svg" width="100%" alt="Tygo van Steenpaal, full-stack developer from the Netherlands">
 
-Full-stack developer from the Netherlands. I turn ideas into projects you can open and use: games, web apps and tools.
+<img src="assets/build.svg" width="100%" alt="I build games, web apps and tools">
 
 <img src="https://img.shields.io/badge/TypeScript-2a2a30?style=for-the-badge&logo=typescript&logoColor=white&labelColor=ff6a00&label=" alt="TypeScript">
 <img src="https://img.shields.io/badge/JavaScript-2a2a30?style=for-the-badge&logo=javascript&logoColor=white&labelColor=ff6a00&label=" alt="JavaScript">
@@ -19,6 +19,7 @@ Full-stack developer from the Netherlands. I turn ideas into projects you can op
 </div>
 
 <br>
+<img src="assets/divider.svg" width="100%" alt="">
 
 ## Projects
 
@@ -30,6 +31,8 @@ Full-stack developer from the Netherlands. I turn ideas into projects you can op
 | **PyVPN** | VPN built on TUN interfaces with modern cryptography | ![](https://img.shields.io/badge/Python-ffa31a?style=flat-square) | [![Code](https://img.shields.io/badge/Code-c8ccd2?style=for-the-badge)](https://github.com/tygovansteenpaal/secure_vpn) |
 | **Stravasa** | User platform with sign-in and profiles | ![](https://img.shields.io/badge/PHP-ffa31a?style=flat-square) ![](https://img.shields.io/badge/Tailwind-ffa31a?style=flat-square) | [![Code](https://img.shields.io/badge/Code-c8ccd2?style=for-the-badge)](https://github.com/tygovansteenpaal/stravasa) |
 
+<br>
+<img src="assets/divider.svg" width="100%" alt="">
 <br>
 
 <div align="center">

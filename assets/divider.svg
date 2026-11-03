@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="10" viewBox="0 0 1000 10">
+<style>@keyframes run{from{transform:translateX(-500px)}to{transform:translateX(0)}}.r{animation:run 3.5s linear infinite}@media (prefers-reduced-motion:reduce){.r{animation:none}}</style>
+<defs><linearGradient id="g" gradientUnits="userSpaceOnUse" x1="0" x2="500" spreadMethod="repeat"><stop offset="0" stop-color="#d42a00"/><stop offset=".25" stop-color="#ff6a00"/><stop offset=".5" stop-color="#ffa31a"/><stop offset=".75" stop-color="#ff6a00"/><stop offset="1" stop-color="#d42a00"/></linearGradient>
+<clipPath id="c"><rect x="0" y="3" width="1000" height="4" rx="2"/></clipPath></defs>
+<g clip-path="url(#c)"><rect class="r" x="0" y="0" width="2000" height="10" fill="url(#g)"/></g>
+</svg>
